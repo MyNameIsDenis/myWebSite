@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url('./img/image9.jpg');
+    min-height:100%;
+    font-family: Arial;
+    
+}
+h1{
+    text-align: center;
+}
